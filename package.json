@@ -1,6 +1,6 @@
 {
   "name": "@nirvana-labs/nirvana",
-  "version": "0.1.0-alpha.31",
+  "version": "0.1.0-alpha.32",
   "description": "The official TypeScript library for the Nirvana Labs API",
   "author": "Nirvana Labs <engineering@nirvanalabs.io>",
   "types": "dist/index.d.ts",

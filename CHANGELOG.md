@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1 (2025-03-22)
+
+Full Changelog: [v0.1.0...v0.1.1](https://github.com/nirvana-labs/nirvana-node/compare/v0.1.0...v0.1.1)
+
+### Bug Fixes
+
+* avoid type error in certain environments ([#166](https://github.com/nirvana-labs/nirvana-node/issues/166)) ([5193402](https://github.com/nirvana-labs/nirvana-node/commit/519340298cec3d4c95d26176c85869a22a9953eb))
+
 ## 0.1.0 (2025-03-21)
 
 Full Changelog: [v0.1.0-alpha.46...v0.1.0](https://github.com/nirvana-labs/nirvana-node/compare/v0.1.0-alpha.46...v0.1.0)

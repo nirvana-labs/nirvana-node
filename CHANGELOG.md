@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.2 (2025-03-28)
+
+Full Changelog: [v0.2.1...v0.2.2](https://github.com/nirvana-labs/nirvana-node/compare/v0.2.1...v0.2.2)
+
+### Bug Fixes
+
+* **internal:** work around https://github.com/vercel/next.js/issues/76881 ([#175](https://github.com/nirvana-labs/nirvana-node/issues/175)) ([4559c5d](https://github.com/nirvana-labs/nirvana-node/commit/4559c5dbb5cf435be82fb21191f51cf3990c2970))
+
 ## 0.2.1 (2025-03-26)
 
 Full Changelog: [v0.2.0...v0.2.1](https://github.com/nirvana-labs/nirvana-node/compare/v0.2.0...v0.2.1)
